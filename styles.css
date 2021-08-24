@@ -5,3 +5,12 @@
     padding: 1rem;
     margin: 3rem 5rem;
 }
+
+.output{
+    height: 10vh;
+    border: solid;
+    display: block;
+    width: 80%;
+    padding: 1rem;
+    margin: 3rem 5rem;
+}

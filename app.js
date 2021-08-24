@@ -2,6 +2,8 @@ var buttonClick = document.querySelector("#btn-click");
 
 var inputTxt = document.querySelector("#txt-input");
 
+var outputTxt = document.querySelector(".output");
+
 buttonClick.addEventListener("click", function clickEventHandler(){
-    alert("clicked " + inputTxt.value)
+    outputTxt.innerHTML = "hello " + inputTxt.value;
 })

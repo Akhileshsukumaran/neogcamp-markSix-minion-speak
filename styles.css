@@ -69,6 +69,7 @@ textarea{
     margin: 0.5rem auto;
     font-family: 'Ubuntu', sans-serif;
     font-size: large;
+    overflow: scroll;
 }
 
 

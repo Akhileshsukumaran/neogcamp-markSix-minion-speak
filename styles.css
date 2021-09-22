@@ -101,5 +101,10 @@ textarea{
 a{
     font-family: 'Ubuntu', sans-serif;
     text-decoration: none;
+    color: black;
+}
+
+a:hover{
+    color: tomato;
 }
 
